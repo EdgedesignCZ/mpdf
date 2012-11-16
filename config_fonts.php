@@ -190,7 +190,13 @@ $this->fontdata = array(
 		),
 
 
-/* XW Zar Arabic fonts */
+/* XW Zar Arabic fonts
+ *
+ *  New since mPDF v5.5
+ *
+ *  Add to (arabic) fonts to allow "use non-mapped Arabic Glyphs" e.g. for Pashto:
+ *          'unAGlyphs' => true,
+ */
 	"xbriyaz" => array(
 		'R' => "XB Riyaz.ttf",
 		'B' => "XB RiyazBd.ttf",
