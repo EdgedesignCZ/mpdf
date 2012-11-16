@@ -1,0 +1,25 @@
+Open Sans by Steve Matteson
+
+Apache License, version 2.0 (http://www.apache.org/licenses/LICENSE-2.0.html)
+
+Open Sans is a humanist sans serif typeface designed by Steve Matteson, Type
+Director of Ascender Corp. This version contains the complete 897 character
+set, which includes the standard ISO Latin 1, Latin CE, Greek and Cyrillic
+character sets. Open Sans was designed with an upright stress, open forms
+and a neutral, yet friendly appearance. It was optimized for print, web,
+and mobile interfaces, and has excellent legibility characteristics
+in its letterforms.
+
+===============
+Important:
+===============
+Actual implementation of Open Sans is subset optimized for central Europe
+languages with aim to be fast and small:
+    – Czech
+    – Slovak
+    – Poland
+    – Hungary
+    – German
+    – English
+Subset does not include some math symbols not used in common web documents.
+Subset was created using excellent http://www.fontsquirrel.com/fontface/generator
